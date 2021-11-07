@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidarCPFeCPNJ", "ValidarCPFeCPNJ\ValidarCPFeCPNJ.csproj", "{D76DAD43-E383-479D-848B-697A04B6D66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76DAD43-E383-479D-848B-697A04B6D66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76DAD43-E383-479D-848B-697A04B6D66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76DAD43-E383-479D-848B-697A04B6D66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76DAD43-E383-479D-848B-697A04B6D66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8471B900-E9D8-4F4F-A8AF-4EAD83AE2737}
+	EndGlobalSection
+EndGlobal

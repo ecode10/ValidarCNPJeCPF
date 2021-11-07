@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuG6xrhJpVM7kmQ8rQukeqe1iEklOE5DWr1CU+V74PFSlkJsQ0/a4RJVXawAzpcTfTge3VMoN6P616HkG7Va0Q==",
+  "success": true,
+  "projectFilePath": "/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/ValidarCPFeCPNJ.csproj",
+  "expectedPackageFiles": [
+    "/Users/mauriciojunior/.nuget/packages/cpfcnpj/2.0.5/cpfcnpj.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

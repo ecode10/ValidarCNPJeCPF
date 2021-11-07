@@ -1,0 +1,15 @@
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/bin/Debug/netcoreapp3.1/ValidarCPFeCPNJ.deps.json
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/bin/Debug/netcoreapp3.1/ValidarCPFeCPNJ.runtimeconfig.json
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/bin/Debug/netcoreapp3.1/ValidarCPFeCPNJ.runtimeconfig.dev.json
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/bin/Debug/netcoreapp3.1/ValidarCPFeCPNJ.dll
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/bin/Debug/netcoreapp3.1/ValidarCPFeCPNJ.pdb
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/bin/Debug/netcoreapp3.1/CPFCNPJ.dll
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.csproj.AssemblyReference.cache
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.AssemblyInfoInputs.cache
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.AssemblyInfo.cs
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.csproj.CoreCompileInputs.cache
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.csproj.CopyComplete
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.dll
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.pdb
+/Users/mauriciojunior/Projects/ValidarCPFeCPNJ/ValidarCPFeCPNJ/obj/Debug/netcoreapp3.1/ValidarCPFeCPNJ.genruntimeconfig.cache
